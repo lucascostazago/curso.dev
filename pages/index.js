@@ -8,7 +8,3 @@ export default function Home() {
     </div>
   );
 }
-
-function test() {
-  console.log("Test");
-}
